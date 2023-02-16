@@ -24,7 +24,7 @@ Copy code:
 
 Here's an example of how to use the requests_data function:
 
-Copy code
+Copy code:
 `url = 'https://api.example.com/data'
 headers = {'Authorization': 'Bearer YOUR_API_TOKEN'}
 payload = {'query': 'search_term', 'limit': 10}
